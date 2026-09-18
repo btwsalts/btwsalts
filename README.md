@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/btwsalts/btwsalts/main/_%20(1).jpeg" width="800">
-</p>
+![My Image](https://raw.githubusercontent.com/btwsalts/btwsalts/main/_%20(1).jpeg)
 
 ## Hi there 👋
 
