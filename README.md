@@ -1,5 +1,5 @@
 ![My Image](https://raw.githubusercontent.com/btwsalts/btwsalts/main/_%20(1).jpeg)
-## Hey, I'm btwsalts 👋
+## ✦ Hey, I'm btwsalts 👋
 
 **💻 Developer • Creator • Builder**
 
