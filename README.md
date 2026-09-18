@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/btwsalts/btwsalts/main/_%20(1).jpeg" width="1000">
+  <img src="https://raw.githubusercontent.com/btwsalts/btwsalts/main/_%20(1).jpeg" width="800">
 </p>
 
 ## Hi there 👋
