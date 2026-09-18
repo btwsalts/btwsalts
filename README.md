@@ -1,4 +1,4 @@
-![My Image](./_ (1).jpeg)
+![My Image](https://raw.githubusercontent.com/btwsalts/btwsalts/main/_%20(1).jpeg)
 ## Hi there 👋
 
 <!--
