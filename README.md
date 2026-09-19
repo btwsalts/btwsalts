@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/btwsalts/btwsalts/main/_%20(1).jpeg" width="100%">
 
 # 💫 About Me:
-## ✦ Hey, I'm btwsalts 👋<br><br>**💻 Developer • Creator • Builder**<br><br>I love turning ideas into clean, functional, and interesting projects.<br>Currently exploring **web development, automation, and creative digital projects**.<br><br>🚀 **Building things**<br>🧠 **Learning something new every day**<br>🛠️ **Experimenting with code & technology**<br>🎨 **Turning ideas into reality**<br><br>~“Build. Break. Learn. Repeat.”<br><br>Thanks for stopping by! ⭐
+## ✦ Hey, I'm btwsalts 👋<br><br>**💻 Developer • Creator • Builder**<br><br>I love turning ideas into clean, functional, and interesting projects.<br>Currently exploring **web development, automation, and creative digital projects**.<br><br>🚀 **Building things**<br>🧠 **Learning something new every day**<br>🛠️ **Experimenting with code & technology**<br>🎨 **Turning ideas into reality**<br><br>~ “Build. Break. Learn. Repeat.” <br><br>Thanks for stopping by! ⭐
 
 
 # 💻 Tech Stack:
