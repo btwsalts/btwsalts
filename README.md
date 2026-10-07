@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=btwsalts&fontColor=ffffff&fontSize=55&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Muhammad%20Umer&fontColor=ffffff&fontSize=55&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/btwsalts">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Penetration+Testing+%7C+Digital+Forensics;Learning+Software+Engineering;Python+%7C+C%2B%2B+%7C+Web+Development;Build.+Break.+Learn.+Repeat." alt="Typing animation" />
@@ -12,7 +12,7 @@
 
 # 🧠 About Me
 
-Hey, I'm **btwsalts** 👋
+Hey, I'm **Muhammad Umer** 👋
 
 I'm a **Cybersecurity student** focused on learning through practical projects, labs, CTFs, and experimentation.
 
