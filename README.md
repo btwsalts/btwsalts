@@ -72,7 +72,7 @@ I'm interested in understanding how systems work, how they can be attacked, and 
 | Project | Focus | Status |
 |:---|:---|:---:|
 | 🔎 **Net-Scan** | Network Security | `DONE` |
-| 🛡️ **PhishGuard** | Web Security | `BUILDING` |
+| 🛡️ **PhishGuard** | Web Security | `DONE` |
 | 🔐 **Password Audit** | Security Automation | `DONE` |
 | 📊 **SIEM Log Analysis** | Detection & Logs | `DONE` |
 | 🔗 **URL Checker** | URL Security | `DONE` |
