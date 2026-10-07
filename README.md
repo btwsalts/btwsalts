@@ -8,7 +8,7 @@
 
 <a href="https://github.com/btwsalts"><img src="https://img.shields.io/badge/GitHub-btwsalts-111111?style=flat-square&logo=github&logoColor=white"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/muhammad-umer-3607ab371/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Umer-111111?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-umer-3607ab371/"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=btwsalts&style=flat-square&color=111111&label=VISITORS" alt="Profile views"/>
 
@@ -20,32 +20,11 @@
 
 <br>
 
-## 👋 Hello, I'm Muhammad Umer
+## 👋 About
 
 > **Cybersecurity student building practical security tools while learning software engineering.**
 
 I'm interested in understanding how systems work, how they can be attacked, and how they can be defended. Most of my learning comes from **projects, labs, CTFs, experimentation, and breaking things to understand them**.
-
-<div align="center">
-
-```text
-┌──[muhammad@umer]─[~/focus]
-└─$ cat interests.txt
-
-[+] Penetration Testing
-[+] Digital Forensics
-[+] Web & Network Security
-[+] CTFs & Security Labs
-[+] SOC / SIEM
-[+] Python & C++
-[+] Software Engineering
-[+] Web Development
-
-└─$ echo "Build. Break. Learn. Repeat."
-Build. Break. Learn. Repeat.
-```
-
-</div>
 
 ---
 
@@ -69,8 +48,8 @@ Build. Break. Learn. Repeat.
 
 `Digital Forensics`  
 `Log Analysis`  
-`SOC / SIEM`  
-`Security Labs`
+`Security Labs`  
+`Incident Analysis`
 
 </td>
 </tr>
@@ -88,36 +67,10 @@ Build. Break. Learn. Repeat.
 
 ---
 
-## 🚧 Currently Building
-
-<div align="center">
-
-### `SENTINEL`
-
-**SOC / SIEM PLATFORM**
-
-```text
-┌─────────┐    ┌───────────┐    ┌─────────┐
-│  LOGS   │ -> │ NORMALIZE │ -> │ DETECT  │
-└─────────┘    └───────────┘    └────┬────┘
-                                      │
-                                      v
-┌───────────┐  <- ┌────────────┐ <- ┌─────────┐
-│  RESOLVE  │    │ INVESTIGATE│    │  ALERT  │
-└───────────┘    └────────────┘    └─────────┘
-```
-
-**Focus:** log collection · detection rules · alerts · incidents · dashboard
-
-</div>
-
----
-
 ## 🧪 Selected Projects
 
 | Project | Focus | Status |
 |:---|:---|:---:|
-| 🛰️ **Sentinel** | SOC / SIEM | `BUILDING` |
 | 🔎 **Net-Scan** | Network Security | `DONE` |
 | 🛡️ **PhishGuard** | Web Security | `BUILDING` |
 | 🔐 **Password Audit** | Security Automation | `DONE` |
@@ -154,7 +107,7 @@ SECURITY                         SOFTWARE
 [+] Digital Forensics            [+] C++
 [+] Web Security                 [+] JavaScript
 [+] Network Security             [+] Web Development
-[+] SOC / SIEM                   [+] APIs & Automation
+[+] Security Labs                [+] APIs & Automation
 ```
 
 </div>
@@ -178,17 +131,6 @@ SECURITY                         SOFTWARE
 <br>
 
 <div align="center">
-
-```text
-$ whoami
-Muhammad Umer
-
-$ status
-learning • building • breaking • improving
-
-$ exit
-See you around.
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,50:111111,100:000000&height=110&section=footer&animation=fadeIn" width="100%"/>
 
