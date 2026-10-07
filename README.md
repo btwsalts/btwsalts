@@ -1,69 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:2563eb&height=210&section=header&text=Muhammad%20Umer&fontColor=ffffff&fontSize=52&fontAlignY=34&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1d4ed8&height=220&section=header&text=Muhammad%20Umer&fontColor=ffffff&fontSize=54&fontAlignY=34&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Cybersecurity+Student+%7C+Security+%2B+Software;Penetration+Testing+%7C+Digital+Forensics;Building+Security+Tools+%26+Projects;Learning+Software+Engineering+Every+Day;Build.+Break.+Learn.+Repeat." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=60A5FA&center=true&vCenter=true&width=780&lines=Cybersecurity+Student;Penetration+Testing+%7C+Digital+Forensics;Security+%2B+Software+Engineering;Building+%7C+Breaking+%7C+Learning" alt="Typing animation"/>
 
-<br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=btwsalts&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/btwsalts">
+<img src="https://img.shields.io/badge/GitHub-btwsalts-111827?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-umer-3607ab371/">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Umer-2563eb?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=btwsalts&style=flat-square&color=2563eb&label=VISITORS" alt="Profile views"/>
 
 </div>
 
+<br>
+
 <img src="https://raw.githubusercontent.com/btwsalts/btwsalts/main/_%20(1).jpeg" width="100%">
 
-## 🧠 About Me
+<br>
 
-I'm **Muhammad Umer**, a cybersecurity student interested in understanding how systems work, how they can be attacked, and how they can be defended.
+## 👋 Hello, I'm Muhammad Umer
 
-I learn by **building things, breaking things, investigating problems, and documenting what I learn**.
+> **Cybersecurity student building practical security tools while learning software engineering.**
 
-```text
-┌──[muhammad@umer]─[~/focus]
-└─$ cat interests.txt
-
-[+] Penetration Testing
-[+] Digital Forensics
-[+] Network & Web Security
-[+] CTFs & Security Labs
-[+] Python & C++
-[+] Software Engineering
-[+] Web Development
-```
-
-> **Build. Break. Learn. Repeat.**
-
----
-
-## 🛡️ What I'm Into
+I'm interested in understanding how systems work, how they can be attacked, and how they can be defended. Most of my learning comes from **projects, labs, CTFs, experimentation, and breaking things to understand them**.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Cybersecurity
+### 🔐 Security
 
-- Penetration Testing
-- Web & Network Security
-- Digital Forensics
-- Security Labs
-- CTFs
-- Log Analysis
-- SOC / SIEM
+**Penetration Testing**  
+**Digital Forensics**  
+**Web & Network Security**  
+**CTFs & Security Labs**  
+**SOC / SIEM**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Software
+### ⚙️ Engineering
 
-- Python
-- C++
-- JavaScript
-- Web Development
-- APIs
-- Automation
-- Linux
-- Git & GitHub
+**Python & C++**  
+**JavaScript**  
+**Web Development**  
+**APIs & Automation**  
+**Linux & Git**
 
 </td>
 </tr>
@@ -71,72 +59,110 @@ I learn by **building things, breaking things, investigating problems, and docum
 
 ---
 
-## 🚧 Currently Building
+## 🚧 Building Now
 
-### 🛰️ Sentinel — SOC / SIEM Platform
+<table>
+<tr>
+<td width="25%" align="center">
 
-A larger security project focused on collecting, normalizing, detecting, and investigating security events.
+### 🛰️
 
-**Planned capabilities**
+**SENTINEL**
 
-`Log Collection` · `Event Normalization` · `Detection Engine` · `Alerts` · `Incidents` · `Dashboard`
+SOC / SIEM
 
-```text
-Logs → Normalize → Detect → Alert → Investigate → Resolve
-```
+</td>
+<td width="75%">
 
----
+A larger security platform for **collecting, normalizing, detecting, and investigating security events**.
 
-## 🧪 Featured Projects
+**Pipeline**
 
-| Project | Focus |
-|---|---|
-| 🛰️ **Sentinel** | SOC / SIEM / Security Monitoring |
-| 🔎 **Net-Scan** | Network & Port Scanning |
-| 🛡️ **PhishGuard** | Phishing Detection |
-| 🔐 **Password Audit** | Password Security & Auditing |
-| 📊 **SIEM Log Analysis** | Log Analysis & Detection |
-| 🔗 **URL Checker** | URL Security Analysis |
+`COLLECT` → `NORMALIZE` → `DETECT` → `ALERT` → `INVESTIGATE` → `RESOLVE`
 
-> More experiments and security projects are being added as I learn.
+**Focus:** log collection · detection rules · alerts · incidents · security dashboard
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Tech Stack
+## 🧪 Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Sentinel
+**SOC / SIEM**
+
+Security monitoring and incident investigation platform.
+
+### 🔎 Net-Scan
+**Network Security**
+
+Web interface for discovering open ports and network services.
+
+### 🛡️ PhishGuard
+**Web Security**
+
+Exploring phishing detection and URL analysis.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Password Audit
+**Security Automation**
+
+Password auditing and security analysis tool.
+
+### 📊 SIEM Log Analysis
+**Detection**
+
+Analyzing security logs and identifying suspicious activity.
+
+### 🔗 URL Checker
+**Security**
+
+URL analysis and security checking.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Toolbox
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Learning Path
+## 📚 Currently Learning
 
-```text
-CYBERSECURITY
-██████████████░░  Penetration Testing
-████████████░░░░  Digital Forensics
-███████████░░░░░  Web Security
-██████████░░░░░░  Network Security
-████████░░░░░░░░  SOC / SIEM
+<div align="center">
 
-SOFTWARE
-████████████░░░░  Python
-██████████░░░░░░  C++
-████████░░░░░░░░  Web Development
-███████░░░░░░░░░  Software Engineering
-```
+| Security | Development |
+| :--- | :--- |
+| Penetration Testing | Python |
+| Digital Forensics | C++ |
+| Web Security | JavaScript |
+| Network Security | Web Development |
+| SOC / SIEM | APIs & Automation |
 
-*Progress bars are a visual snapshot, not skill ratings.*
+</div>
 
 ---
 
@@ -144,36 +170,22 @@ SOFTWARE
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=btwsalts&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api?username=btwsalts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
 
-<img src="https://streak-stats.demolab.com/?user=btwsalts&theme=dark&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=btwsalts&theme=dark&hide_border=true" height="160"/>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=btwsalts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://github.com/btwsalts">
-<img src="https://img.shields.io/badge/GitHub-btwsalts-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-umer-3607ab371/">
-<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Umer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=btwsalts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,55:0f172a,100:020617&height=110&section=footer&animation=fadeIn" width="100%"/>
+> **Build. Break. Learn. Repeat.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:0f172a,100:020617&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
