@@ -10,7 +10,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammad-umer-3607ab371/"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=btwsalts&style=flat-square&color=111111&label=PROFILE%20VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=btwsalts" alt="Profile views"/>
 
 </div>
 
