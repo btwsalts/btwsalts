@@ -9,8 +9,6 @@
 <a href="https://github.com/btwsalts"><img src="https://img.shields.io/badge/GitHub-btwsalts-111111?style=flat-square&logo=github&logoColor=white"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammad-umer-3607ab371/"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=btwsalts" alt="Profile views"/>
 
 </div>
 
