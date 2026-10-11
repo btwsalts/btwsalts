@@ -10,7 +10,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammad-umer-3607ab371/"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=btwsalts&style=flat-square&color=111111&label=VISITORS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=btwsalts&style=flat-square&color=111111&label=PROFILE%20VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -71,11 +71,11 @@ I'm interested in understanding how systems work, how they can be attacked, and 
 
 | Project | Focus | Status |
 |:---|:---|:---:|
-| 🔎 **Net-Scan** | Network Security | `DONE` |
-| 🛡️ **PhishGuard** | Web Security | `DONE` |
-| 🔐 **Password Audit** | Security Automation | `DONE` |
-| 📊 **SIEM Log Analysis** | Detection & Logs | `DONE` |
-| 🔗 **URL Checker** | URL Security | `DONE` |
+| 🔎 [**Net-Scan**](https://github.com/btwsalts/net-scan) | Network Security | `DONE` |
+| 🛡️ [**PhishGuard**](https://github.com/btwsalts/PhishGuard) | Web Security | `DONE` |
+| 🔐 [**Password Audit**](https://github.com/btwsalts/password-audit) | Security Automation | `DONE` |
+| 📊 [**SIEM Log Analysis**](https://github.com/btwsalts/SIEM-Log-Analysis) | Detection & Logs | `DONE` |
+| 🔗 [**URL Checker**](https://github.com/btwsalts/URL-Checker) | URL Security | `DONE` |
 
 ---
 
@@ -118,13 +118,13 @@ SECURITY                         SOFTWARE
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=btwsalts&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=btwsalts&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&include_all_commits=true" height="160" alt="GitHub stats"/>
 
-<img src="https://streak-stats.demolab.com/?user=btwsalts&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=ffffff&dates=888888&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=btwsalts&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=ffffff&dates=888888" height="160" alt="GitHub streak"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=btwsalts&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btwsalts&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc" height="150" alt="Most used languages"/>
 
 </div>
 
