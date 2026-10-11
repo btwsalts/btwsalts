@@ -10,7 +10,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammad-umer-3607ab371/"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<img src="https://viewcounter.live/btwsalts?label=PROFILE%20VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-YES-111111?style=flat-square&logo=github&logoColor=white" alt="Open source"/>
 
 </div>
 
